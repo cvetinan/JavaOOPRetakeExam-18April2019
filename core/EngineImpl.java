@@ -1,7 +1,9 @@
-package core.interfaces;
+package core;
 
 import common.Command;
 import core.ManagerControllerImpl;
+import core.interfaces.Engine;
+import core.interfaces.ManagerController;
 
 import java.io.BufferedReader;
 import java.io.IOException;
